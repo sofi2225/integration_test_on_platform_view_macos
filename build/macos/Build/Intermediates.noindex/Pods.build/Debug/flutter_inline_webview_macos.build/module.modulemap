@@ -1,0 +1,11 @@
+framework module flutter_inline_webview_macos {
+  umbrella header "flutter_inline_webview_macos-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_inline_webview_macos.Swift {
+  header "flutter_inline_webview_macos-Swift.h"
+  requires objc
+}

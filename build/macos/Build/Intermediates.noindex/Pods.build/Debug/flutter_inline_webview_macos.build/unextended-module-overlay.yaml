@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Products/Debug/flutter_inline_webview_macos/flutter_inline_webview_macos.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Products/Debug/flutter_inline_webview_macos/flutter_inline_webview_macos.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_inline_webview_macos-Swift.h",
+      'external-contents': "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/unextended-interface-header.h",
+    }]
+    }]
+}

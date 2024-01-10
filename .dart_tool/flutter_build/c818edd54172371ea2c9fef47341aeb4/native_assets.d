@@ -1,0 +1,1 @@
+ /Users/pruebas/Desktop/integration_test_on_platform_view_macos/.dart_tool/flutter_build/c818edd54172371ea2c9fef47341aeb4/native_assets.yaml: 

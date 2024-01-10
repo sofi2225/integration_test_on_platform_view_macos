@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-master.swiftdeps"
+  },
+  "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/macos/Flutter/GeneratedPluginRegistrant.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant~partial.swiftmodule"
+  },
+  "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/macos/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/macos/Runner/MainFlutterWindow.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow~partial.swiftmodule"
+  }
+}

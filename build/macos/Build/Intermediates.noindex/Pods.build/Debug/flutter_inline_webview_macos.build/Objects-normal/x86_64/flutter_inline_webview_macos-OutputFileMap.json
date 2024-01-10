@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/flutter_inline_webview_macos-master.dia",
+    "emit-module-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/flutter_inline_webview_macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/flutter_inline_webview_macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/flutter_inline_webview_macos-master.swiftdeps"
+  },
+  "/Users/pruebas/.pub-cache/git/flutter_inline_webview_macos-45a84c8190e0b2f333eb3119bca36c8228c02efc/macos/Classes/Controller.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Controller~partial.swiftmodule"
+  },
+  "/Users/pruebas/.pub-cache/git/flutter_inline_webview_macos-45a84c8190e0b2f333eb3119bca36c8228c02efc/macos/Classes/Factory.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/Factory~partial.swiftmodule"
+  },
+  "/Users/pruebas/.pub-cache/git/flutter_inline_webview_macos-45a84c8190e0b2f333eb3119bca36c8228c02efc/macos/Classes/FlutterInlineWebViewMacosPlugin.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/FlutterInlineWebViewMacosPlugin~partial.swiftmodule"
+  },
+  "/Users/pruebas/.pub-cache/git/flutter_inline_webview_macos-45a84c8190e0b2f333eb3119bca36c8228c02efc/macos/Classes/MethodHandler.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/MethodHandler~partial.swiftmodule"
+  },
+  "/Users/pruebas/.pub-cache/git/flutter_inline_webview_macos-45a84c8190e0b2f333eb3119bca36c8228c02efc/macos/Classes/WebView.swift" : {
+    "const-values" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.swiftconstvalues",
+    "dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.d",
+    "diagnostics" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.o",
+    "llvm-bc" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.bc",
+    "object" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.o",
+    "swift-dependencies" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView.swiftdeps",
+    "swiftmodule" : "/Users/pruebas/Desktop/integration_test_on_platform_view_macos/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_inline_webview_macos.build/Objects-normal/x86_64/WebView~partial.swiftmodule"
+  }
+}
